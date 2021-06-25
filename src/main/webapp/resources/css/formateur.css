@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+form {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, 0%);
+}
+input {
+	margin-bottom: 10px;
+}
+.wrapper {
+	position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, 0%);
+}
